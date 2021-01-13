@@ -14,4 +14,4 @@ _The idea for this project is inspired by a series on Garage Education, in which
 - https://docs.google.com/document/d/1CsG6QS6Hh-T6x-luJoGlx2eJq6CXvfbwKB7977bjc8o/edit#
 
 ### Garage Education playlist on youtube:
--https://www.youtube.com/watch?v=xQ4f1FwsMbI&list=PLxNoJq6k39G_R3AA108CLE8w6n_CCCmDf
+- https://www.youtube.com/watch?v=xQ4f1FwsMbI&list=PLxNoJq6k39G_R3AA108CLE8w6n_CCCmDf
