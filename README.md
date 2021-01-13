@@ -1,7 +1,7 @@
 # Telecom-CaseStudy-ETL-with_SSIS
 This is an educational project that uses fake data related to the field of communication (such as IMSI / IMEI / TAC / SNR), but I would like to highlight this project that reviews concepts and topics that can be applied in any other project, and the part of the field of Tele-communication in this series is very limited.
 
-The idea for this project is inspired by a series on Garage Education, in which Eng. Mostafa Alaa shows the process of building an ETL project using Scala.
+_The idea for this project is inspired by a series on Garage Education, in which Eng. Mostafa Alaa shows the process of building an ETL project using Scala.
 
 ## Project Tasks
 - Read, process and transfer data directly. Simple ETL package.
@@ -9,3 +9,6 @@ The idea for this project is inspired by a series on Garage Education, in which 
 - Handle files stored in a specific folder "looping through files".
 - Archive files that are moving processed.
 - Auditing of processed data.
+
+###You can see all requirements in this link 
+- https://docs.google.com/document/d/1CsG6QS6Hh-T6x-luJoGlx2eJq6CXvfbwKB7977bjc8o/edit#
